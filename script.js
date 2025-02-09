@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function handleYes() {
-        window.location.href = "yes_page.html";
+        window.location.href = "yes_page";
     }
 
     // Add event listeners inside DOMContentLoaded
